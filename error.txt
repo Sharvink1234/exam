@@ -1,0 +1,1 @@
+Fatal error: Uncaught mysqli_sql_exception: Table 'online_exam_system.results' doesn't exist in C:\xampp\htdocs\b\view_results.php:23 Stack trace: #0 C:\xampp\htdocs\b\view_results.php(23): mysqli->query('SELECT students...') #1 {main} thrown in C:\xampp\htdocs\b\view_results.php on line 23
